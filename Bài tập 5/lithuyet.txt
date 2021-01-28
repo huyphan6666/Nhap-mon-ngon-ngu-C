@@ -1,0 +1,15 @@
+ Câu 1 : Cú pháp Của Khai Báo Biến là : <Kiểu_dữ_liệu> <Tên_biến>;
+       Trong đó : kiểu dữ liệu là kiểu dữ liệu.
+                  tên biến là tên biến và kết thuc phải có dấu chấm phẩy
+   VD : int tong;
+  khái Niệm Biến :  Biến là một ô nhớ đơn lẻ hoặc một vùng nhớ được hệ điều hành cấp phát cho chương trình C++ nhằm để lưu trữ giá trị vào bên trong vùng nhớ đó.
+Câu 2  : 
+     Khái Niệm Biến toàn cục :là một biến có tầm vực toàn cục, nghĩa là nó có thể nhìn thấy (và do vậy truy xuất được) trong toàn bộ chương trình, trừ khi bị che (variable shadowing).
+     Khái Niệm Biến cục bộ : là biến nằm trong phạm vi của một hàm, do đó nó sẽ được khởi tạo khi hàm được gọi và bị huỷ khi hàm kết thúc công việc của mình, biến cục bộ tức là biến chỉ được sử dụng nội bộ bên trong hàm, nó không thể bị sử dụng bên ngoài hàm.
+Câu 3 : 
+    Khái Niệm Hàm : Hàm là một khối lệnh được xây dựng để thực hiện một chức năng cụ thể nào đó. Hàm luôn luôn được xác định bởi một tên gọi cụ thể. Mọi thao tác với hàm đều sẽ được thực hiện thông qua tên gọi này
+    Phân Loại Hàm : Có 2 loại hàm gồm : Hàm Thư Viện Chuẩn Và Hàm Do con người Định nghĩa.  
+    
+         
+     
+ 
